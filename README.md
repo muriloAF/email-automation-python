@@ -1,2 +1,16 @@
 # Sistema-de-Envio-Automático-de-E-mails-com-Python
-Este repositório contém um sistema de automação do envio de e-mails corporativos a partir de uma base de dados em planilha Excel. O sistema realiza a leitura dos e-mails, personaliza o conteúdo e efetua o disparo automático das mensagens, otimizando o processo de envio de propostas comerciais.
+Automação de Envio de E-mails com Python
+
+Projeto desenvolvido para automatizar o envio de e-mails para empresas a partir de uma planilha Excel.
+O sistema lê os dados da planilha, monta o conteúdo do e-mail com HTML e realiza o envio automático.
+
+Tecnologias utilizadas:
+- Python
+- SMTP
+- Pandas
+- HTML
+
+Funcionalidades:
+- Leitura de e-mails via planilha Excel
+- Envio automático de e-mails
+- Personalização de título e conteúdo
